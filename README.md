@@ -4,10 +4,10 @@
 
 - 🎓 Degrees in System Information and Graduate in Management Project
 - 🌱 Learning always ... some hats ...
-	- Forward Deployed Engineer
-  - AI Engineer | AI Product
-  - Software Engineer and Architecture | Product Engineer
-  - Cloud | DevOps | IaC | SRE | Observability
+    - 🚀 Forward Deployed Engineer
+    - 🤖 AI Engineer | AI Product
+    - 🏗️ Software Engineer and Architecture | Product Engineer
+    - ☁️ Cloud | DevOps | IaC | SRE | Observability
 - 🎖️ Sports - 🎾 Padel - 🥋 Brazilian Jiu-Jitsu ...
 - 😃 like 🍕 🍝 🍔 🍪 ☕ 🧉 🍺 ...
 - 🌾 GOD 🇧🇷 Liberal
