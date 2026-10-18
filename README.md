@@ -1,4 +1,4 @@
-# https://thiagosilva.dev
+# https://thiagoeti.dev
 
 **ETI - Especialista em Tecnologia da Informação**
 
