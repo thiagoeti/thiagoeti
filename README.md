@@ -2,7 +2,7 @@
 
 **ETI - Especialista em Tecnologia da Informação**
 
-**Product AI Engineer** | **Software Engineer** | **Forward Deployed Engineer**
+**Product AI Engineer** | **Software AI Engineer** | **Forward Deployed Engineer**
 
 - 🎓 Degrees in System Information and Graduate in Management Project
 - 🌱 Learning always ... some hats ...
